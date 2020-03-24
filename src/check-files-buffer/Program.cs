@@ -59,7 +59,7 @@ namespace CheckFilesBuffer
             if (bufferInvalid > 0)
                 Console.WriteLine("Invalid buffers count:{0}", bufferInvalid);
             else
-                Console.WriteLine("Sucess files buffer equals.");
+                Console.WriteLine("Success files buffer equals.");
 
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
