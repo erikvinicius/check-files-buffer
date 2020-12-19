@@ -2,6 +2,9 @@
 tool created to check if the buffer of two files are equal<br>
 it checks the entire file buffer, checking for invalid byte by byte and returning the offset from where the files are different
 
+## How To Use:
+  ![how to use](https://user-images.githubusercontent.com/55746545/102697784-3b35e180-4217-11eb-8861-91ee2c8527bd.gif)
+
 ## Example:
 
 1. Creating a text file and typing anything inside, and making the copy of the same file and throwing the two in the tool through drag and drop the return will be [Sucess](https://github.com/erikvinicius/check-files-buffer/blob/master/README.md#success)
