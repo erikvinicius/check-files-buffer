@@ -1,6 +1,5 @@
 # Check Files Buffer
-tool created to check if the buffer of two files are equal<br>
-it checks the entire file buffer, checking for invalid byte by byte and returning the offset from where the files are different
+tool created to check if the buffer of two files are equal, it checks the entire file buffer, checking for invalid byte by byte and returning the offset from where the files are different
 
 ## How To Use:
   ![how to use](https://user-images.githubusercontent.com/55746545/102697784-3b35e180-4217-11eb-8861-91ee2c8527bd.gif)
