@@ -15,15 +15,15 @@ it will return [Buffer Invalid](https://github.com/erikvinicius/check-files-buff
 ## Results:
 
 ### Success
-  > If everything goes OK it will display a success message on the console.</p>
+  #### If everything goes OK it will display a success message on the console.</p>
   ![success](https://user-images.githubusercontent.com/55746545/102697552-5142a280-4215-11eb-9154-c97e57b8bc03.png)
 
 
 ### Buffer Invalid
-  > It will check that all bytes of the files are the same. otherwise it will display this error message.
+  #### It will check that all bytes of the files are the same. otherwise it will display this error message.
   ![offset-invalid](https://user-images.githubusercontent.com/55746545/102697584-92d34d80-4215-11eb-9138-71aa987dda20.png)
 
 ### Length Invalid
-  > It will check the file sizes to see if they are the same, otherwise it will display the following error message.
+  #### It will check the file sizes to see if they are the same, otherwise it will display the following error message.
   ![length-not-equals](https://user-images.githubusercontent.com/55746545/102697570-79ca9c80-4215-11eb-8da7-7768c8fa5cbc.png)
 
