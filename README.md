@@ -3,7 +3,7 @@ tool created to check if the buffer of two files are equal<br>
 it checks the entire file buffer, checking for invalid byte by byte and returning the offset from where the files are different
 
 ## Example:
- Creating a text file and typing anything inside, and making the copy of the same file and throwing the two in the tool through drag and drop the return will be <a href="#sucess" >Success<a/>
+ Creating a text file and typing anything inside, and making the copy of the same file and throwing the two in the tool through drag and drop the return will be [Sucess](#sucess)
 
 ## Results:
 
